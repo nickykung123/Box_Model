@@ -1,0 +1,36 @@
+.flex-container{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    background-color:red;
+    
+    height: 100px;
+    width: 1000px;
+}
+.flex-container2{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    background-color:orange;
+    
+    height: 50px;
+    width: 1000px;
+}
+.flex-container3{
+    justify-content: space-around;
+    display: table;
+    align-items: center;
+    background-color: yellow;
+    
+    height: 550px;
+    width: 1000px;
+}
+.flex-container4{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    background-color: green;
+    
+    height: 50px;
+    width: 1000px;
+}
