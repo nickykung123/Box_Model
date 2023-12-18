@@ -1,4 +1,12 @@
-.flex-container{
+html body{
+    margin: 0px;
+}
+.flex-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
     justify-content: space-around;
     display: flex;
     align-items: center;
@@ -7,7 +15,7 @@
     height: 100px;
     width: 1000px;
 }
-.flex-container2{
+.Navigation{
     justify-content: space-around;
     display: flex;
     align-items: center;
@@ -16,7 +24,7 @@
     height: 50px;
     width: 1000px;
 }
-.flex-container3{
+.Lorem{
     justify-content: space-around;
     display: table-caption;
     align-items: center;
@@ -25,7 +33,7 @@
     height: 550px;
     width: 1000px;
 }
-.flex-container4{
+.Footer{
     justify-content: space-around;
     display: flex;
     align-items: center;
@@ -36,9 +44,8 @@
 }
 .center-block{
     margin: auto;
-    width: 50%;
     padding: 10px;
 }
 .indented-text{
-    margin-left: 10px;
+    padding: 5px;
 }
